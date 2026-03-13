@@ -1,0 +1,16 @@
+#+title: Home
+#+hugo_base_dir: ../
+#+hugo_section: .
+#+hugo_auto_export: t
+
+* Enrico Celestino Colón
+PhD Student in Mathematics at Harvard studying low-dimensional topology. My advisor is Peter Kronheimer.
+
+* About
+Welcome to my website.
+
+* Research
+Working on things.
+
+* Notes
+Coming soon.
