@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://enricocolon.github.io/'
 languageCode = 'en-us'
 title = "Enrico Colón's Homepage"
 theme = 'hugo-xmin'
@@ -8,23 +8,23 @@ theme = 'hugo-xmin'
       unsafe = true
 [[menu.main]]
   name = 'About'
-  url = '#about'
+  url = 'https://enricocolon.github.io/#about'
   weight = 1
 [[menu.main]]
   name = 'Research'
-  url = '#research'
+  url = 'https://enricocolon.github.io/#research'
   weight = 2
 [[menu.main]]
   name = 'Expository'
-  url = '#expository'
+  url = 'https://enricocolon.github.io/#expository'
   weight = 3
 [[menu.main]]
   name = 'Teaching'
-  url = '#teaching'
+  url = 'https://enricocolon.github.io/#teaching'
   weight = 4
 [[menu.main]]
   name = 'Leadership and Outreach'
-  url = '#leadership-and-outreach'
+  url = 'https://enricocolon.github.io/#leadership-and-outreach'
   weight = 5
 [[menu.main]]
   name = 'Code'
